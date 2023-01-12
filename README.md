@@ -4,7 +4,7 @@ This project demonstrate the use of the [Strangler Fig pattern](https://martinfo
 
 ## Description
 
-An in-depth article is available here!
+An in-depth article is available [here](https://sidoine.org/using-the-strangler-fig-pattern-in-sst/)!
 
 ## Getting Started
 
